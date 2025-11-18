@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "riqinho.com.github.androidgs"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "riqinho.com.github.androidgs"
